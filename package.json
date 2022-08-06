@@ -1,8 +1,5 @@
 {
   "name": "@sokomary/eslint-config",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/sokomary"
-  },
   "version": "0.0.1",
   "main": "index.js",
   "scripts": {
